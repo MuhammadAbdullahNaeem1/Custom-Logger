@@ -1,0 +1,10 @@
+2024-07-29 16:13:32 [Information] User attempted login
+2024-07-29 16:30:47 [Information] User attempted login
+2024-07-30 12:32:37 [Information] User attempted login
+2024-07-30 16:38:14 [Information] User attempted login
+2024-07-30 17:11:02 [Information] User attempted login
+2024-07-30 17:41:54 [Information] User attempted login
+2024-07-31 11:18:01 [Information] User attempted login
+2024-07-31 13:00:19 [Information] User attempted login
+2024-07-31 15:27:12 [Information] User attempted login
+2024-08-07 16:29:12 [Information] User attempted login

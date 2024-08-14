@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\logfiles\\logsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\logfiles\\logsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\controller\\loggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\controller\\loggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\logfiles\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\logfiles\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\final-logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\final-logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\interface\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\interface\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|d:\\work\\compilers\\microsoft-visual-studio\\final-logger\\final-logger\\final-logger\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C6CECF-7F9F-4E8E-8284-5F81BE651245}|Final-Logger\\Final-Logger.csproj|solutionrelative:final-logger\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Final-Logger.csproj",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Final-Logger.csproj",
+              "RelativeDocumentMoniker": "Final-Logger\\Final-Logger.csproj",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Final-Logger.csproj",
+              "RelativeToolTip": "Final-Logger\\Final-Logger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T11:43:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Final-Logger\\appsettings.Development.json",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\appsettings.Development.json",
+              "RelativeToolTip": "Final-Logger\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T10:09:51.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Final-Logger\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Final-Logger\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:51:48.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerController.cs",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Controller\\LoggerController.cs",
+              "RelativeDocumentMoniker": "Final-Logger\\Controller\\LoggerController.cs",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Controller\\LoggerController.cs",
+              "RelativeToolTip": "Final-Logger\\Controller\\LoggerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:26:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\LogFiles\\Logger.cs",
+              "RelativeDocumentMoniker": "Final-Logger\\LogFiles\\Logger.cs",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\LogFiles\\Logger.cs",
+              "RelativeToolTip": "Final-Logger\\LogFiles\\Logger.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:51:55.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Final-Logger\\Program.cs",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Program.cs",
+              "RelativeToolTip": "Final-Logger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:40:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogSetup.cs",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\LogFiles\\LogSetup.cs",
+              "RelativeDocumentMoniker": "Final-Logger\\LogFiles\\LogSetup.cs",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\LogFiles\\LogSetup.cs",
+              "RelativeToolTip": "Final-Logger\\LogFiles\\LogSetup.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:25:55.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAppLogger.cs",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Interface\\IAppLogger.cs",
+              "RelativeDocumentMoniker": "Final-Logger\\Interface\\IAppLogger.cs",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\Interface\\IAppLogger.cs",
+              "RelativeToolTip": "Final-Logger\\Interface\\IAppLogger.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:59:27.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\appsettings.json",
+              "RelativeDocumentMoniker": "Final-Logger\\appsettings.json",
+              "ToolTip": "D:\\Work\\Compilers\\Microsoft-Visual-Studio\\Final-Logger\\Final-Logger\\Final-Logger\\appsettings.json",
+              "RelativeToolTip": "Final-Logger\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T09:50:32.582Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

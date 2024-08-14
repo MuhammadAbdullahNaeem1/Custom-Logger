@@ -1,0 +1,10 @@
+2024-07-29 16:13:32 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-29 16:30:47 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-30 12:32:37 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-30 16:38:14 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-30 17:11:02 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-30 17:41:54 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-31 11:18:01 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-31 13:00:19 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-07-31 15:27:12 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout
+2024-08-07 16:29:12 [Error] Database connection failed during login process | InnerException: SQL Exception: Connection timeout

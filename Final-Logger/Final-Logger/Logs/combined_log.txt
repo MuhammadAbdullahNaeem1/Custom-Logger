@@ -1,0 +1,7 @@
+2024-07-30 16:33:47 [Information] Application started
+2024-07-30 16:33:47 [Warning] This is a warning message
+2024-07-30 16:33:47 [Error] An error occurred | InnerException: Details of the error
+2024-07-30 16:50:00 [Information] Incoming request: GET /
+2024-07-30 16:50:00 [Information] Outgoing response: 404
+2024-07-30 16:50:02 [Information] Incoming request: GET /
+2024-07-30 16:50:02 [Information] Outgoing response: 404

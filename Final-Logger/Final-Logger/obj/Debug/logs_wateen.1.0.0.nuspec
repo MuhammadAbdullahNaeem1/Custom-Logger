@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>logs_wateen</id>
+    <version>1.0.0</version>
+    <authors>Muhammad Abdullah Naeem</authors>
+    <description>A logging library for .NET applications</description>
+    <tags>logging logger</tags>
+    <repository type="git" url="https://github.com/MuhammadAbdullahNaeem1/CustomLogger" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Swashbuckle.AspNetCore" version="6.6.2" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.Swagger" version="6.6.2" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.SwaggerUI" version="6.6.2" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Work\Compilers\Microsoft-Visual-Studio\Final-Logger\Final-Logger\Final-Logger\bin\Debug\net8.0\Final-Logger.runtimeconfig.json" target="lib\net8.0\Final-Logger.runtimeconfig.json" />
+    <file src="D:\Work\Compilers\Microsoft-Visual-Studio\Final-Logger\Final-Logger\Final-Logger\bin\Debug\net8.0\Final-Logger.dll" target="lib\net8.0\Final-Logger.dll" />
+    <file src="D:\Work\Compilers\Microsoft-Visual-Studio\Final-Logger\Final-Logger\Final-Logger\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="D:\Work\Compilers\Microsoft-Visual-Studio\Final-Logger\Final-Logger\Final-Logger\appsettings.Development.json" target="contentFiles\any\net8.0\appsettings.Development.json" />
+    <file src="D:\Work\Compilers\Microsoft-Visual-Studio\Final-Logger\Final-Logger\Final-Logger\appsettings.json" target="content\appsettings.json" />
+    <file src="D:\Work\Compilers\Microsoft-Visual-Studio\Final-Logger\Final-Logger\Final-Logger\appsettings.json" target="contentFiles\any\net8.0\appsettings.json" />
+  </files>
+</package>
